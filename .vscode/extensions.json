@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "dotenv.dotenv-vscode",
+    "esbenp.prettier-vscode",
+    "github.copilot",
+    "zixuanchen.vitest-explorer"
+  ]
+}
